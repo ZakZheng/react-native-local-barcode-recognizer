@@ -1,13 +1,13 @@
-﻿###react-native-local-barcode-recognizer
+﻿###rn-local-qrdecode
 ## *** Still under development.
 
 ##Install:
 ```bash
 #install:
-npm install react-native-local-barcode-recognizer
+npm install rn-local-qrdecode
 
 #and link:
-react-native link react-native-local-barcode-recognizer
+react-native link rn-local-qrdecode
 
 ```
 
@@ -19,7 +19,7 @@ Here is the demo (may check the examples folder of source code as well)
 ```typescript 
 import ...
 
-import LocalBarcodeRecognizer from 'react-native-local-barcode-recognizer';
+import LocalBarcodeRecognizer from 'rn-local-qrdecode';
 
 
 const imageBase64 = "data:image/jpeg;base64,/9j/4AA.......";
