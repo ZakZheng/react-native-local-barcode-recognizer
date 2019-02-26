@@ -1,5 +1,5 @@
 {
-  "name": "react-native-local-barcode-recognizer",
+  "name": "rn-local-barcode-recognizer",
   "version": "0.0.3",
   "description": "The plugin to recognize the barcode from local image for React Native.",
   "author": "cicistream <cicistream@outlook.com>",
