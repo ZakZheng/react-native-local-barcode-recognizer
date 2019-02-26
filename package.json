@@ -1,5 +1,5 @@
 {
-  "name": "rn-local-qrdecode-recognizer",
+  "name": "rn-local-qrdecode",
   "version": "0.0.3",
   "description": "The plugin to recognize the barcode from local image for React Native.",
   "author": "cicistream",
